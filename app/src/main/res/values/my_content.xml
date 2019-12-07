@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="titile">
+
+        <item>เควิน</item>
+        <item>ศรีนวล</item>
+        <item>เจ้าแสบ</item>
+        <item>กระติก</item>
+        <item>จอมดุ</item>
+
+    </string-array>
+    <string-array name="detail">
+
+        <item>ชื่อเควิน , อายุ 2 ปี , นิสัยร่างเริงชอบเล่นกับผู้คน</item>
+        <item>ชื่อศรีนวล , อายุ 4 ปี , นิสัยรเรียบร้อย ไม่ชอบยุ่งกับใคร</item>
+        <item>ชื่อเเจ้าแสบ , อายุ 7 เดือน , นิสัยชอบของเย็นเป็นพิเศษ</item>
+        <item>ชื่อกระติก , อายุ 1 ปี , นิสัยเป็นมิตรเข้าได้กับทุกคน</item>
+        <item>ชื่อจอมดุ , อายุ 11 เดือน , นิสัยกินเก่งและชอบกระโดดสองขา</item>
+
+
+    </string-array>
+</resources>
